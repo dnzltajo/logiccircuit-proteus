@@ -11,6 +11,7 @@ Design a combinational logic circuit that accepts a 3-bit number and generate a 
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/decoder-basic.bmp">
 </p> 
+
 * NAND Gates
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/decoder-nand.bmp">
@@ -27,6 +28,7 @@ Design the BCD to seven-segment decoder utilizing the least number of logic gate
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/bcd-basic.bmp">
 </p> 
+
 * NOR Gates
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/bcd-nor.bmp">
@@ -47,6 +49,7 @@ Design an encoder circuit that accepts 0-9 decimal switches and can display the 
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/encoder-cc.bmp">
 </p> 
+
 * Common anode & a logic high input
 <p align="center">
   <img width="700" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/images/encoder-ca.bmp">
