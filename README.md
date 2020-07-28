@@ -12,7 +12,7 @@ Design a combinational logic circuit that accepts a 3-bit number and generate a 
 
 
 
-##BCD to 7-segment Decoder
+## BCD to 7-segment Decoder
 A BCD to Seven-segment is a combinational circuit that accepts a decimal point in BCD and generates the appropriate outputs for selection of segments in a display indicator used for displaying the decimal digit. 
 
 Design the BCD to seven-segment decoder utilizing the least number of logic gates.
@@ -38,5 +38,9 @@ Design an encoder circuit that accepts 0-9 decimal switches and can display the 
 
 ## Simple ALU (Addition & Subtraction) 
 Design a simple Arithmetic Logic Unit with one selector variable **S** and two input **A** and **B**. When **S=0**, the circuit performs **A+B**. When **S=1**, the circuit performs **A-B** by taking the two’s complement of **B**. Assume that **A** and **B** to be decimal digit. Use any available package decoder as output converter into a seven segment display. **Unsigned bits only**. 
+For this activity, a BCD adder will be used. 
 
-For this activity, a BCD adder will be used. The figure below shows the circuit for a BCD adder using Full-adders.
+
+<p align="center">
+  <img width="900" height="500" src="https://raw.githubusercontent.com/dnzltajo/logiccircuit-proteus/master/alu-addnsub.png">
+</p> 
